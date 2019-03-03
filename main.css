@@ -1,0 +1,38 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: url(https://i.pinimg.com/originals/e3/6f/18/e36f18251272e30872b3c57fb17f4126.jpg) no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1, h2
+{
+    text-align: center;
+    font-family: 'Press Start 2P';
+}
+
+img
+{
+    width: 180px;
+	height: 180px;
+    cursor: pointer;
+}
+
+#memory
+ { 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: none;
+ }
+ table { border-collapse: collapse; }
+ tr ,td 
+ {
+    background:url(https://media.giphy.com/media/1GTZA4flUzQI0/giphy.gif)no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+
